@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/StephenGrider/Lyrical-GraphQL"
+    "url": "https://github.com/sk4248/lyrical-graphql"
   },
   "scripts": {
     "dev": "nodemon index.js --ignore client"
@@ -28,7 +28,7 @@
     "graphql": "^0.10.0",
     "html-webpack-plugin": "^2.26.0",
     "lodash": "^4.17.4",
-    "mongoose": "^5.6.5",
+    "mongoose": "^5.7.0",
     "nodemon": "*",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
